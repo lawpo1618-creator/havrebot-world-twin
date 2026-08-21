@@ -22,6 +22,12 @@ TECH_RE = re.compile(
     r"核聚變|自動駕駛|機械人|機器人|robot|AI|chip|quantum|space|fusion|"
     r"battery|nuclear|semiconductor|breakthrough|innovation", re.I)
 
+MARKET_RE = re.compile(
+    r"股市|港股|恆指|恒指|恒生|A股|上證|深證|道指|納指|標普|"
+    r"樓市|樓價|樓盤|物業|地產|住宅|寫字樓|商舖|中原|美聯|"
+    r"stock|market|Hang Seng|Hong Kong property|housing|property|real estate|"
+    r"加息|減息|利率|匯率|人民幣|美元|通脹", re.I)
+
 CATEGORIES = [
     {"name": "🤖 建造業・機械人", "queries": [
         "建造業 機械人 香港", "拆卸 機械人 建築", "建築科技 香港 創新",
@@ -31,6 +37,9 @@ CATEGORIES = [
      "re": None, "max": 5, "lang": "en-US"},
     {"name": "🇭🇰 香港要聞", "queries": ["香港 新聞", "Hong Kong news"],
      "re": None, "max": 5, "lang": "zh-HK"},
+    {"name": "📈 股市・樓市", "queries": [
+        "恆指 港股 今日", "香港 樓市 樓價", "Hang Seng index", "Hong Kong property market"],
+     "re": MARKET_RE, "max": 5, "lang": "zh-HK"},
     {"name": "💡 新科技・新技術", "queries": [
         "科技 突破 創新 2026", "new technology breakthrough robot AI",
         "人工智能 最新 進展", "量子 芯片 太空 突破"],

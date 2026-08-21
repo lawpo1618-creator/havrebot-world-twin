@@ -37,6 +37,23 @@
   TradingView | Wed, 19 Aug 2026
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUHNtVTNMMGNXSlh6amlDQUdDN0ZBYkE5UGZTRWcwRFhHMkRTamdUS1pvaXkwVUZCWmt
 
+## 📈 股市・樓市
+- 📰 **【港股夜期+ADR+北水】夜期收升240點 阿里美股高港1.7%（不斷更新） - 香港經濟日報HKET**
+  香港經濟日報HKET | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FS3B0c3hkVEJNUFY4TENpQjc2aE55T0tWekNXMEFyZkswaEZVZE11d05QZWg2S09rLUU
+- 📰 **亞洲冧市 港股逆市靠穩夜期彈上 - 信報網站**
+  信報網站 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVV9jY2haLXRQeXNFQ2JfZGFqaVhIUkVuNFZyR1lGRW1lUVVpcTVaWXZsYzNQbjJFQ3J
+- 📰 **【袁志峰專欄】 港股維持上落市 - news.cnyes.com**
+  news.cnyes.com | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE50MVI2TzV2SzVVZ1RYZTZGM3M3ejdScGtDQS1fYy1SN0hHVy1tSThFSkNMMUNRcnJqdlc
+- 📰 **樓市短炒/凱滙五個月兩易手 一個月升值200萬 - 大公文匯網**
+  大公文匯網 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBmcmhmOHpGcHVCX1luV2dBVlhUSGNrenpkcEJmTk9VYjU4NGpQOUJXakptZERzMDJwMlA
+- 📰 **美聯料下半年樓價最多升8% - 信報網站**
+  信報網站 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWY2cnJVUlZ6M3pQVDZEVFZqdzRXRWsxbnR2UDIyMjZuMGcwSnZfOEdPV3FhNzFpYUt
+
 ## 💡 新科技・新技術
 - 📰 **Google 宣布 Waymo 將 Gemini 整合至 Ojai 車輛 - Techritual**
   Techritual | Wed, 19 Aug 2026

@@ -10,6 +10,9 @@
 - 📰 **創業資助基金2026︱香港11大初創資助基金 最高拎$100萬！即睇申請資格＋資助金額 - UHK 港生活**
   UHK 港生活 | Thu, 20 Aug 2026
   https://news.google.com/rss/articles/CBMi-ANBVV95cUxOYmpnN2p5QnlSMV94TmRma2dUM3YxejlhNU11SFREY2d5OFdRZ2FRbnV0OWNuZzdoNnN
+- 📰 **科技基金搶眼 資金大回流 - 經濟日報**
+  經濟日報 | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfbm9PZDlDQlQ4OV9SaGlMMDRpOXQ0ZWpNQUdRLV8wd3piWURNamNoUzg3S01DVkJqQWN
 - 📰 **力谷初創科企成長四載增十家獨角獸- 香港 - 大公文匯網**
   大公文匯網 | Thu, 20 Aug 2026
   https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dG5aZVZMUHNmM2hzMDhDUi12UEw1WjlmbzU3ZnR0N0EyUXB3MUpNd0oxZUM3dGVWOEI
@@ -64,9 +67,9 @@
 - 📰 **中共301醫院驚傳遭駭！疑習近平「這部位」MRI影像流出- 國際 - 自由時報**
   自由時報 | Thu, 20 Aug 2026
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Iek5oNXNIQ0pTNWFnLXNvYkxMelprdnM5dHdRVTVQck1lc0hIYjZfQ0kyUGFLdEN0azJ
-- 📰 **澳洲援助人員於加薩遇害外長怒批以色列拒調查- 國際 - 自由時報**
-  自由時報 | Thu, 20 Aug 2026
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GWExFNndKdEpKd2R2Y2ZoNWVxWm1TWjZCYWhydVZpSUtjaXF3RDZpLS1EVlpQZm1mTWR
+- 📰 **Top 16 Altcoins to Watch After Today’s Crypto Rally - TradingView**
+  TradingView | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVVqbktTemtrMVlnZnlSaXFFNW5Od0ZscnViTGVSU29ubVpPXzlJeXEwQTZRRGh0Mk9
 
 ## 🇭🇰 香港要聞
 - 📰 **加密貨幣公司OKX禁止駐香港員工使用人工智能模型Claude - Yahoo 財經**

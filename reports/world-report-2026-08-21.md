@@ -3,6 +3,54 @@
 ## 🤖 建造業・機械人
 （今日冇捕捉到）
 
+## 🏭 競品・全球行業
+（今日冇捕捉到）
+
+## 🏛️ 政府資助・政策
+- 📰 **創業資助基金2026︱香港11大初創資助基金 最高拎$100萬！即睇申請資格＋資助金額 - UHK 港生活**
+  UHK 港生活 | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMi-ANBVV95cUxOYmpnN2p5QnlSMV94TmRma2dUM3YxejlhNU11SFREY2d5OFdRZ2FRbnV0OWNuZzdoNnN
+- 📰 **力谷初創科企成長四載增十家獨角獸- 香港 - 大公文匯網**
+  大公文匯網 | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dG5aZVZMUHNmM2hzMDhDUi12UEw1WjlmbzU3ZnR0N0EyUXB3MUpNd0oxZUM3dGVWOEI
+- 📰 **【創業資助2026】香港11大初創基金懶人包！最高拎100萬起步金 即睇申請資格及流程 - 經濟一週**
+  經濟一週 | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3VXamM4NmlxNjdOSlNCRFU0Mzg2cXAxeUN0OXVlUTdtYWxKY1BXNm9XRjB5NWRxRGM
+
+## 🏗️ 地盤・招標・重建
+- 📰 **發展局試行7舊區舊樓重建可獲額外20%地積比 9月起實施為期5年 - 香港01**
+  香港01 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiqwNBVV95cUxPeTdxbnNVaWZ0ZWhENzJZQXZMZXhwY24wY2VTYXkzZDlDQ2NnQW82dmdranVpem5jeU1
+- 📰 **加快七個舊區私人重建 發展局9月推出「額外地積比率先導計劃」 - 香港文匯報**
+  香港文匯報 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE12TGROd3dwam1XM3A3QjJ1RU1OSXFsc2o5SGlod29jOFlMN1NiMHFVeEFhUGt4Yk94M3B
+- 📰 **麻州最高法院批准懷特體育場$3.25億重建計劃 - 大纪元**
+  大纪元 | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3LWFkdmgtdHdMQ1BrRG5NbzNNdzQwU1dJWXZiOUNXQThTR19zVDVJeEUwVFpLdVZSYzh
+- 📰 **住得樂｜有馬鞍山商場擬重建為住宅 測量師指改劃前須經多重批核 - TVB**
+  TVB | Thu, 20 Aug 2026
+  https://news.google.com/rss/articles/CBMilwNBVV95cUxOYnEwbVBXZlhReU02VG1FcE5neWotb0xYa3kxOHlSdHFKTjhFcWwwVEhiV0ZBZFBFMGE
+
+## 👷 人手・勞工政策
+（今日冇捕捉到）
+
+## 📈 股市・樓市
+- 📰 **【港股夜期+ADR+北水】夜期收升240點 阿里美股高港1.7%（不斷更新） - 香港經濟日報HKET**
+  香港經濟日報HKET | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FS3B0c3hkVEJNUFY4TENpQjc2aE55T0tWekNXMEFyZkswaEZVZE11d05QZWg2S09rLUU
+- 📰 **亞洲冧市 港股逆市靠穩夜期彈上 - 信報網站**
+  信報網站 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVV9jY2haLXRQeXNFQ2JfZGFqaVhIUkVuNFZyR1lGRW1lUVVpcTVaWXZsYzNQbjJFQ3J
+- 📰 **【袁志峰專欄】 港股維持上落市 - news.cnyes.com**
+  news.cnyes.com | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE50MVI2TzV2SzVVZ1RYZTZGM3M3ejdScGtDQS1fYy1SN0hHVy1tSThFSkNMMUNRcnJqdlc
+- 📰 **樓市短炒/凱滙五個月兩易手 一個月升值200萬 - 大公文匯網**
+  大公文匯網 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBmcmhmOHpGcHVCX1luV2dBVlhUSGNrenpkcEJmTk9VYjU4NGpQOUJXakptZERzMDJwMlA
+- 📰 **美聯料下半年樓價最多升8% - 信報網站**
+  信報網站 | Wed, 19 Aug 2026
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWY2cnJVUlZ6M3pQVDZEVFZqdzRXRWsxbnR2UDIyMjZuMGcwSnZfOEdPV3FhNzFpYUt
+
 ## 🌍 世界要聞
 - 📰 **GT World Series 2026 Rd.2 - Tokyo 'Viewers Gift' Campaign Entry Reopening - GT全球系列賽 - 跑車浪漫旅 7 - gran-turismo.com**
   gran-turismo.com | Wed, 19 Aug 2026
@@ -36,23 +84,6 @@
 - 📰 **宏光半導體(06908.HK)擬8月31日舉行董事會會議審批中期業績 - TradingView**
   TradingView | Wed, 19 Aug 2026
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUHNtVTNMMGNXSlh6amlDQUdDN0ZBYkE5UGZTRWcwRFhHMkRTamdUS1pvaXkwVUZCWmt
-
-## 📈 股市・樓市
-- 📰 **【港股夜期+ADR+北水】夜期收升240點 阿里美股高港1.7%（不斷更新） - 香港經濟日報HKET**
-  香港經濟日報HKET | Wed, 19 Aug 2026
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FS3B0c3hkVEJNUFY4TENpQjc2aE55T0tWekNXMEFyZkswaEZVZE11d05QZWg2S09rLUU
-- 📰 **亞洲冧市 港股逆市靠穩夜期彈上 - 信報網站**
-  信報網站 | Wed, 19 Aug 2026
-  https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVV9jY2haLXRQeXNFQ2JfZGFqaVhIUkVuNFZyR1lGRW1lUVVpcTVaWXZsYzNQbjJFQ3J
-- 📰 **【袁志峰專欄】 港股維持上落市 - news.cnyes.com**
-  news.cnyes.com | Wed, 19 Aug 2026
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE50MVI2TzV2SzVVZ1RYZTZGM3M3ejdScGtDQS1fYy1SN0hHVy1tSThFSkNMMUNRcnJqdlc
-- 📰 **樓市短炒/凱滙五個月兩易手 一個月升值200萬 - 大公文匯網**
-  大公文匯網 | Wed, 19 Aug 2026
-  https://news.google.com/rss/articles/CBMidEFVX3lxTFBmcmhmOHpGcHVCX1luV2dBVlhUSGNrenpkcEJmTk9VYjU4NGpQOUJXakptZERzMDJwMlA
-- 📰 **美聯料下半年樓價最多升8% - 信報網站**
-  信報網站 | Wed, 19 Aug 2026
-  https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWY2cnJVUlZ6M3pQVDZEVFZqdzRXRWsxbnR2UDIyMjZuMGcwSnZfOEdPV3FhNzFpYUt
 
 ## 💡 新科技・新技術
 - 📰 **Google 宣布 Waymo 將 Gemini 整合至 Ojai 車輛 - Techritual**
